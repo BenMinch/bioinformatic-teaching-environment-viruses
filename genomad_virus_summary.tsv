@@ -1,0 +1,24 @@
+seq_name	length	topology	coordinates	n_genes	genetic_code	virus_score	fdr	n_hallmarks	marker_enrichment	taxonomy
+ctg4848hep	31335	No terminal repeats	NA	11	11	0.9999	NA	10	17.1828	Viruses;Riboviria;Orthornavirae;Pisuviricota;Pisoniviricetes;Nidovirales;Coronaviridae
+ctg190432	14003	No terminal repeats	NA	20	11	0.9998	NA	1	16.3164	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Maveriviricetes;Priklausovirales;
+ctgpox438487	197209	ITR	NA	198	11	0.9998	NA	104	222.8658	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Pokkesviricetes;Chitovirales;Poxviridae
+ctgshr2839	7822	DTR	NA	6	11	0.9998	NA	6	10.3097	Viruses;Monodnaviria;Shotokuvirae;Cossaviricota;Papovaviricetes;Zurhausenvirales;Papillomaviridae
+contig_106685|provirus_1_26058	26058	Provirus	1-26058	31	11	0.9998	NA	0	18.6794	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Algavirales;Phycodnaviridae
+contig_17499	241260	No terminal repeats	NA	359	11	0.9998	NA	21	403.8221	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Algavirales;Phycodnaviridae
+ctg3849784	9181	DTR	NA	8	11	0.9998	NA	8	13.7463	Viruses;Riboviria;Pararnavirae;Artverviricota;Revtraviricetes;Ortervirales;Retroviridae
+contig_106685|provirus_42899_309805	266907	Provirus	42899-309805	276	11	0.9998	NA	14	210.5944	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+ctg108595	288795	No terminal repeats	NA	282	11	0.9998	NA	7	284.6046	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+ctg263284	403966	No terminal repeats	NA	455	11	0.9998	NA	10	163.7770	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+ctgjp7864	225358	No terminal repeats	NA	287	11	0.9998	NA	4	66.8114	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ctg270001	222253	No terminal repeats	NA	273	11	0.9998	NA	18	279.4141	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Algavirales;Phycodnaviridae
+ctg115219	19545	No terminal repeats	NA	26	11	0.9998	NA	1	10.5578	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Maveriviricetes;Priklausovirales;
+ctg484747	40219	DTR	NA	71	11	0.9997	NA	18	66.3295	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ctg14926	598874	No terminal repeats	NA	569	11	0.9995	NA	3	94.6819	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+ctg263650	363927	No terminal repeats	NA	365	11	0.9994	NA	9	233.1500	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+ctg76039	10061	No terminal repeats	NA	11	11	0.9994	NA	0	1.7183	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;Algavirales;Phycodnaviridae
+ctgsin39384	6938	DTR	NA	8	11	0.9993	NA	1	1.4774	Viruses;Monodnaviria;Shotokuvirae;Cressdnaviricota;Arfiviricetes;Mulpavirales;Nanoviridae
+ctgjp20293	221130	No terminal repeats	NA	317	11	0.9993	NA	10	76.4581	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ctg263849	671824	No terminal repeats	NA	658	11	0.9993	NA	14	312.7728	Viruses;Varidnaviria;Bamfordvirae;Nucleocytoviricota;Megaviricetes;;
+ctg89804	10536	No terminal repeats	NA	10	11	0.9986	NA	0	1.4239	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Tectiliviricetes;Kalamavirales;Tectiviridae
+ctg51201	15772	No terminal repeats	NA	18	11	0.9985	NA	0	3.4366	Viruses;Duplodnaviria;Heunggongvirae;Uroviricota;Caudoviricetes;;
+ctg36512	13494	No terminal repeats	NA	16	11	0.8744	NA	2	3.3541	Viruses;Varidnaviria;Bamfordvirae;Preplasmiviricota;Polintoviricetes;Orthopolintovirales;Adintoviridae
