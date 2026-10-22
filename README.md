@@ -12,7 +12,7 @@ Then enter the directory
 We also need to download the databases
 `python Database_setup.py`
 ### Running BEREN with the test dataset
-`python BEREN.py -i Virus_metagenome_test.fasta -o BEREN_output -m NCLDV_marker,NCLDV_SCGs,PPV
+`python BEREN.py -i Virus_metagenome_test.fasta -o BEREN_output -m NCLDV_marker,NCLDV_SCGs,PPV`
 ### Examining the outputs
 
 ## Activity 2: Running CheckGV to access genome quality
